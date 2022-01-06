@@ -84,24 +84,22 @@ with open(file_to_save, "w") as txt_file:
         print(county_results)
          # 6e: Save the county votes to a text file.
         txt_file.write(county_results)
-         # 6f: Write an if statement to determine the winning county and get its vote count.
-    if (cvotes > county_winner) and (county_percentage > largest_county_percentage):
-        county_winner = cvotes
-        largest_county_percentage = county_percentage
-        largest_county = county_name
-# something is wrong with this if statement, and
-# more importantly with the names (look at beginning of document)
-# How to keep track of every name? and what each name means?
-# I don't know
-    # 7: Print the county with the largest turnout to the terminal.
-        print (county_winner) # I think this is wrong
-			#print (county with largest turnout)
+            # 6f: Write an if statement to determine the winning county and get its vote count.
+        if (cvotes > county_winner) and (county_percentage > largest_county_percentage):
+            county_winner = cvotes
+            largest_county_percentage = county_percentage
+            largest_county = county_name
+
+
+        # 7: Print the county with the largest turnout to the terminal.
+    print (f"--------------------\nLargest County: {largest_county}\n------------------\n") 
+	
 
 
 
 
     # 8: Save the county with the largest turnout to a text file.
-    txt_file.write(largest_county)
+    txt_file.write(f"---------------------------\nLargest County Turnout: {largest_county}\n-------------------------\n")
 		# (some file name).write.(county with largest turn out)
 		
 		
