@@ -36,7 +36,6 @@ Largest County: Denver
 
 
 
-![image](https://user-images.githubusercontent.com/68198233/181083001-6dcd88ca-4983-49f4-b6c0-ed93c2d5e875.png)
 
 Charles Casper Stockham: 23.0% (85,213)
 
@@ -49,3 +48,6 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
+
+![image](https://user-images.githubusercontent.com/68198233/181083001-6dcd88ca-4983-49f4-b6c0-ed93c2d5e875.png)
+
