@@ -32,6 +32,12 @@ Arapahoe: 6.7% (24,801)
 Largest County: Denver
 ------------------
 
+
+
+
+
+![image](https://user-images.githubusercontent.com/68198233/181083001-6dcd88ca-4983-49f4-b6c0-ed93c2d5e875.png)
+
 Charles Casper Stockham: 23.0% (85,213)
 
 Diana DeGette: 73.8% (272,892)
