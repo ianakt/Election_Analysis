@@ -31,6 +31,7 @@ Arapahoe: 6.7% (24,801)
 --------------------
 Largest County: Denver
 ------------------
+![image](https://user-images.githubusercontent.com/68198233/181084183-b332c53f-8be2-4ba4-b716-be16a804f9c7.png)
 
 
 
